@@ -1,0 +1,15 @@
+{
+	"name": "rupeshdatafactory121",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8209cab3-0a9f-42c8-8cc9-5fd40bbe21c8",
+		"tenantId": "748443a5-48e2-4dbe-aa9f-2f9a1eb4531a"
+	}
+}
